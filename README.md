@@ -3,6 +3,7 @@
 Requer Python 3.10+. Execute na pasta do projeto:
 
     python limpar_case.py --input dados --output saida
+    python -m unittest -v
 
 O programa preserva as entradas e grava precatorios.json, pagamentos.json e relatorio.json. Divergências incertas ficam para revisão.
 
