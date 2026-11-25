@@ -1,4 +1,4 @@
-# Case de integração de precatórios
+# Integração de precatórios
 
 Ferramenta de linha de comando para normalizar e conciliar os arquivos do case. Os dados recebidos são preservados; resultados e ocorrências são gravados separadamente.
 
